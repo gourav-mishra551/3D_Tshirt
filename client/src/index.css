@@ -6,7 +6,6 @@
 @tailwind utilities;
 
 html {
-  background-color: #c89666;
 font-family: 'Playfair Display', serif;
 color: white;
 }
